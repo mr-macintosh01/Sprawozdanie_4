@@ -41,4 +41,4 @@
 # 6. Teraz, aby sprawdzić ilość warstw w obrazie oraz jakie kroki doprowadziły do ich powstania:
     docker history web100
 
-    Spostrzeżenia dotyczące warstw oraz ich powstania mogą być zależne od konkretnych działań podczas tworzenia obrazu, ale ogólnie rzecz biorąc, każde polecenie RUN,     COPY lub ADD w pliku Dockerfile tworzy nową warstwę w obrazie Dockerowym.
+# Spostrzeżenia dotyczące warstw oraz ich powstania mogą być zależne od konkretnych działań podczas tworzenia obrazu, ale ogólnie rzecz biorąc, każde polecenie RUN,     COPY lub ADD w pliku Dockerfile tworzy nową warstwę w obrazie Dockerowym.
